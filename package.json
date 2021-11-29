@@ -1,0 +1,28 @@
+{
+  "name": "data-structures-algorithms",
+  "version": "1.0.0",
+  "description": "Data Structures & Algorithms with JavaScript",
+  "jest": {
+    "verbose": true,
+    "bail": true,
+    "testPathDirs": ["./exercises"]
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alek-Jakim/data-structures-and-algorithms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alek-Jakim/data-structures-and-algorithms/issues"
+  },
+  "homepage": "https://github.com/Alek-Jakim/data-structures-and-algorithms#readme",
+  "dependencies": {
+    "jest": "^27.4.0"
+  }
+}
