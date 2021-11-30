@@ -5,7 +5,7 @@
   "jest": {
     "verbose": true,
     "bail": true,
-    "testPathDirs": ["./exercises"]
+    "roots": ["./exercises"]
   },
   "main": "index.js",
   "scripts": {
